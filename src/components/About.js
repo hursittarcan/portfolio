@@ -23,7 +23,7 @@ class About extends Component {
           </h1>
           <div className="row center mx-auto mb-5">
 
-            <div className="col-md-8 center" style={{ marginTop: '50px' }}>
+            <div className="col-md-8 center" style={{ marginTop: '20px' }}>
               <div className="col-md-10">
                 <div className="card">
                   <div className="card-header">
