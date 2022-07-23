@@ -31,7 +31,7 @@
         {
           "name": "Java",
           "class": "devicon-java-plain colored",
-          "level": "80"
+          "level": "70"
         },
         {
           "name": "NodeJS",
@@ -41,17 +41,17 @@
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain colored",
-          "level": "70"
+          "level": "90"
         },
         {
           "name": "ReactJS",
           "class": "devicon-react-original colored",
-          "level": "75"
+          "level": "50"
         },
         {
           "name": "MongoDB",
           "class": "devicon-mongodb-plain colored",
-          "level": "85"
+          "level": "80"
         },
         {
           "name": "C#",
@@ -61,12 +61,12 @@
         {
           "name": "Python",
           "class": "devicon-python-plain colored",
-          "level": "60"
+          "level": "70"
         },
         {
           "name": "SpringBoot",
           "class": "devicon-spring-plain colored",
-          "level": "60"
+          "level": "70"
         }
       ]
     }
