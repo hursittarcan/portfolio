@@ -105,6 +105,30 @@
             "name": "CSS"
           }
         ]
+      },
+      {
+        "title": "WorstelClub Hasselt",
+        "startDate": "2019",
+        "description": "Custom website for one of my clients. Website for a wrestling club located in Hasselt.",
+        "images": [
+          "images/portfolio/project-images/worstelclubhasselt-one.png",
+          "images/portfolio/project-images/worstelclubhasselt-two.png"
+        ],
+        "url": "https://worstelclubhasselt.be/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
       }
     ],
     "experience": [
