@@ -107,9 +107,9 @@
         ]
       },
       {
-        "title": "WorstelClub Hasselt",
+        "title": "レスリング・クラ",
         "startDate": "2019",
-        "description": "Custom website for one of my clients. Website for a wrestling club located in Hasselt.",
+        "description": "これは、私の顧客のウェブサイトです。",
         "images": [
           "images/portfolio/project-images/worstelclubhasselt-one.png",
           "images/portfolio/project-images/worstelclubhasselt-two.png"
@@ -118,11 +118,11 @@
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
-            "name": "HTML"
+            "name": "エイチティーエム"
           },
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-css3-plain colored",
