@@ -4,77 +4,145 @@
       "description": "私は Hursit Tarcan です。私は22歳です。私はデザイナーと開発者とトランスレータです。2018年、私はデザイナーになりました。私は創造的で論理的な人です。大学でデザインクラスと開発クラスがだいすきでした。\n\n 2021年に日本語の勉強を始めました。語学の勉強がだいすきです。私は英語とオランダ語とトルコ語とドイツ語とフランス語も話します。",
       "section_name": {
         "about": "私について",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "projects": "プロジェクト",
+        "skills": "巧知",
+        "experience": "経験"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Ethereum",
+        "startDate": "2021",
+        "description": "The most popular project I worked for. I'm a code contributor and translation lead. I wrote over 400 lines of code and translated over 60.000 words. I'm still working on this project.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/project-images/ethereum-one.png",
+          "images/portfolio/project-images/ethereum-two.png"
         ],
-        "url": "",
+        "url": "https://ethereum.org/en/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain colored",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-typescript-plain colored",
+            "name": "TypeScript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Doua",
+        "startDate": "2022",
+        "description": "Custom website for one of my clients. Minimalistic website selling hair products.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/project-images/doua-one.png",
+          "images/portfolio/project-images/doua-two.png"
         ],
-        "url": "https://github.com",
+        "url": "https://doua.be/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "BreakBuddy",
+        "startDate": "2022",
+        "description": "Minimalistic game-like website for trip advising. One of my proudest hobby projects.",
+        "images": [
+          "images/portfolio/project-images/breakbuddy-one.png",
+          "images/portfolio/project-images/breakbuddy-two.png"
+        ],
+        "url": "https://website.breakbuddy.be/",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "CocoNoir Fashion",
+        "startDate": "2021",
+        "description": "Custom website for one of my clients. Website for selling fashion.",
+        "images": [
+          "images/portfolio/project-images/coconoir-one.png",
+          "images/portfolio/project-images/coconoir-two.png"
+        ],
+        "url": "https://coconoirfashion.be/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "WorstelClub Hasselt",
+        "startDate": "2019",
+        "description": "Custom website for one of my clients. Website for a wrestling club located in Hasselt.",
+        "images": [
+          "images/portfolio/project-images/worstelclubhasselt-one.png",
+          "images/portfolio/project-images/worstelclubhasselt-two.png"
+        ],
+        "url": "https://worstelclubhasselt.be/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "BReady2Go",
+        "startDate": "2019",
+        "description": "Custom website for one of my clients. Website for a taxi company.",
+        "images": [
+          "images/portfolio/project-images/bready2go-one.png",
+          "images/portfolio/project-images/bready2go-two.png"
+        ],
+        "url": "https://bready2go.be/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain colored",
+            "name": "WordPress"
           }
         ]
       }
