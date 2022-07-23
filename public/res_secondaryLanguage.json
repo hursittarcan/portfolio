@@ -83,9 +83,9 @@
         ]
       },
       {
-        "title": "CocoNoir Fashion",
+        "title": "ココノワール",
         "startDate": "2021",
-        "description": "Custom website for one of my clients. Website for selling fashion.",
+        "description": "これは、私の顧客のウェブサイトです。衣料品店です。",
         "images": [
           "images/portfolio/project-images/coconoir-one.png",
           "images/portfolio/project-images/coconoir-two.png"
@@ -94,11 +94,11 @@
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
-            "name": "HTML"
+            "name": "エイチティーエム"
           },
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-css3-plain colored",
