@@ -35,7 +35,7 @@
         ]
       },
       {
-        "title": "DOUA",
+        "title": "Doua",
         "startDate": "2022",
         "description": "Custom website for one of my clients. Minimalistic website selling hair products.",
         "images": [
@@ -59,26 +59,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "BreakBuddy",
+        "startDate": "2022",
+        "description": "Minimalistic game-like website for trip advising. One of my proudest hobby projects.",
         "images": [
-          "images/portfolio/project-images/doua-one.png",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/project-images/breakbuddy-one.png",
+          "images/portfolio/project-images/breakbuddy-two.png"
         ],
-        "url": "https://github.com",
+        "url": "https://website.breakbuddy.be/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJs"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
           }
         ]
       }
