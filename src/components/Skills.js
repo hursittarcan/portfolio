@@ -28,7 +28,7 @@ class Skills extends Component {
       <section id="skills">
         <div className="col-md-12">
           <div className="col-md-12">
-            <h1 className="section-title">
+            <h1 className="section-title" style={{ fontWeight: "bolder" }}>
               <span className="text-white">{sectionName}</span>
             </h1>
           </div>
