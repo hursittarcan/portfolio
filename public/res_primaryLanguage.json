@@ -81,6 +81,30 @@
             "name": "HTML"
           }
         ]
+      },
+      {
+        "title": "CocoNoir Fashion",
+        "startDate": "2021",
+        "description": "Custom website for one of my clients. Website for selling fashion.",
+        "images": [
+          "images/portfolio/project-images/coconoir-one.png",
+          "images/portfolio/project-images/coconoir-two.png"
+        ],
+        "url": "https://coconoirfashion.be/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
       }
     ],
     "experience": [
