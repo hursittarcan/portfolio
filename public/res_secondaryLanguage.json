@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Doua",
+        "title": "ドウア",
         "startDate": "2022",
-        "description": "Custom website for one of my clients. Minimalistic website selling hair products.",
+        "description": "これは、私の顧客のウェブサイトです。ヘアプロダクトのウェブサイトです。",
         "images": [
           "images/portfolio/project-images/doua-one.png",
           "images/portfolio/project-images/doua-two.png"
@@ -46,11 +46,11 @@
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
-            "name": "HTML"
+            "name": "エイチティーエム"
           },
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-css3-plain colored",
