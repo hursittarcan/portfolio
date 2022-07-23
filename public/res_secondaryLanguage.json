@@ -131,9 +131,9 @@
         ]
       },
       {
-        "title": "BReady2Go",
+        "title": "ブリーディング・ツーゴー",
         "startDate": "2019",
-        "description": "Custom website for one of my clients. Website for a taxi company.",
+        "description": "これは、私の顧客のウェブサイトです。",
         "images": [
           "images/portfolio/project-images/bready2go-one.png",
           "images/portfolio/project-images/bready2go-two.png"
@@ -142,7 +142,7 @@
         "technologies": [
           {
             "class": "devicon-wordpress-plain colored",
-            "name": "WordPress"
+            "name": "ワードプレス"
           }
         ]
       }
