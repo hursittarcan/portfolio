@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/hursittarcan.github.io/portfolio/static/css/main.12e6ab41.chunk.css",
-    "main.js": "/hursittarcan.github.io/portfolio/static/js/main.9767e9f2.chunk.js",
-    "main.js.map": "/hursittarcan.github.io/portfolio/static/js/main.9767e9f2.chunk.js.map",
-    "runtime-main.js": "/hursittarcan.github.io/portfolio/static/js/runtime-main.d41b4e26.js",
-    "runtime-main.js.map": "/hursittarcan.github.io/portfolio/static/js/runtime-main.d41b4e26.js.map",
-    "static/css/2.d64471e2.chunk.css": "/hursittarcan.github.io/portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.26bdd67b.chunk.js": "/hursittarcan.github.io/portfolio/static/js/2.26bdd67b.chunk.js",
-    "static/js/2.26bdd67b.chunk.js.map": "/hursittarcan.github.io/portfolio/static/js/2.26bdd67b.chunk.js.map",
-    "index.html": "/hursittarcan.github.io/portfolio/index.html",
-    "precache-manifest.708a07033f672e1acf98ea1d6d0d1fb4.js": "/hursittarcan.github.io/portfolio/precache-manifest.708a07033f672e1acf98ea1d6d0d1fb4.js",
-    "service-worker.js": "/hursittarcan.github.io/portfolio/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/hursittarcan.github.io/portfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.12e6ab41.chunk.css.map": "/hursittarcan.github.io/portfolio/static/css/main.12e6ab41.chunk.css.map",
-    "static/js/2.26bdd67b.chunk.js.LICENSE.txt": "/hursittarcan.github.io/portfolio/static/js/2.26bdd67b.chunk.js.LICENSE.txt"
+    "main.css": "/hursittarcan.be/static/css/main.12e6ab41.chunk.css",
+    "main.js": "/hursittarcan.be/static/js/main.9fb4ae4b.chunk.js",
+    "main.js.map": "/hursittarcan.be/static/js/main.9fb4ae4b.chunk.js.map",
+    "runtime-main.js": "/hursittarcan.be/static/js/runtime-main.43d0e0cf.js",
+    "runtime-main.js.map": "/hursittarcan.be/static/js/runtime-main.43d0e0cf.js.map",
+    "static/css/2.d64471e2.chunk.css": "/hursittarcan.be/static/css/2.d64471e2.chunk.css",
+    "static/js/2.26bdd67b.chunk.js": "/hursittarcan.be/static/js/2.26bdd67b.chunk.js",
+    "static/js/2.26bdd67b.chunk.js.map": "/hursittarcan.be/static/js/2.26bdd67b.chunk.js.map",
+    "index.html": "/hursittarcan.be/index.html",
+    "precache-manifest.1229f96ec066050821c97a36312b0038.js": "/hursittarcan.be/precache-manifest.1229f96ec066050821c97a36312b0038.js",
+    "service-worker.js": "/hursittarcan.be/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/hursittarcan.be/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.12e6ab41.chunk.css.map": "/hursittarcan.be/static/css/main.12e6ab41.chunk.css.map",
+    "static/js/2.26bdd67b.chunk.js.LICENSE.txt": "/hursittarcan.be/static/js/2.26bdd67b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d41b4e26.js",
+    "static/js/runtime-main.43d0e0cf.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.26bdd67b.chunk.js",
     "static/css/main.12e6ab41.chunk.css",
-    "static/js/main.9767e9f2.chunk.js"
+    "static/js/main.9fb4ae4b.chunk.js"
   ]
 }
