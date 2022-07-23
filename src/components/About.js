@@ -18,7 +18,7 @@ class About extends Component {
     return (
       <section id="about" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
         <div className="col-md-12">
-          <h1 style={{ color: "black" }}>
+          <h1 style={{ color: "black", fontWeight: "bolder" }}>
             <span>{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
