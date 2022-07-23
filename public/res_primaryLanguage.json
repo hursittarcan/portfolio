@@ -13,7 +13,7 @@
       {
         "title": "Ethereum",
         "startDate": "2021",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The most popular project I worked for. I'm a code contributor and translation lead. I wrote over 400 lines of code and translated over 60.000 words. I'm still working on this project.",
         "images": [
           "images/portfolio/project-images/ethereum-one.png",
           "images/portfolio/project-images/ethereum-two.png"
@@ -21,36 +21,40 @@
         "url": "https://ethereum.org/en/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-react-plain colored",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
             "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "DOUA",
+        "startDate": "2022",
+        "description": "Custom website for one of my clients. Minimalistic website selling hair products.",
         "images": [
-          "images/portfolio/animal-shelter/ethereummain.png",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/project-images/doua-one.png",
+          "images/portfolio/project-images/doua-two.png"
         ],
-        "url": "https://github.com",
+        "url": "https://doua.be",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-javascript-plain colored",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
           }
         ]
       },
@@ -59,7 +63,7 @@
         "startDate": "2015",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/animal-shelter/p1.png",
+          "images/portfolio/project-images/doua-one.png",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
