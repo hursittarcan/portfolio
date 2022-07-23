@@ -183,19 +183,18 @@
       },
       {
         "company": "イーサリアム",
-        "title": "Translator",
+        "title": "トランスレータ",
         "years": "12.2021 - 04.2022",
         "mainTech": [
-          "Translator"
+          "トランスレータ"
         ],
         "technologies": [
-          "English",
-          "Turkish",
-          "Dutch",
-          "German",
-          "azerbaijani",
-          "Japanese",
-          "French"
+          "英語",
+          "トルコ語",
+          "オランダ語",
+          "ドイツ語",
+          "日本語",
+          "フランス語"
         ]
       }
     ]
