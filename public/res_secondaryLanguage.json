@@ -150,35 +150,32 @@
     "experience": [
       {
         "company": "イーサリアム",
-        "title": "Language Lead",
-        "years": "04.2022 - Present",
+        "title": "言語リーダー",
+        "years": "04.2022 - 今日",
         "mainTech": [
-          "Language Lead"
+          "言語リーダー"
         ],
         "technologies": [
-          "English",
-          "Turkish",
-          "Dutch",
-          "German",
-          "azerbaijani",
-          "Japanese",
-          "French"
+          "英語",
+          "トルコ語",
+          "オランダ語",
+          "ドイツ語",
+          "日本語",
+          "フランス語"
         ]
       },
       {
         "company": "イーサリアム",
-        "title": "Open Source Developer",
-        "years": "01.2022 - Present",
+        "title": "開発者",
+        "years": "01.2022 - 今日",
         "mainTech": [
-          "Developer"
+          "開発者"
         ],
         "technologies": [
-          "REST API",
-          "JavaScript",
-          "HTML 5",
-          "CSS 3",
-          "ReactJS",
-          "TypeScript"
+          "ジャバスクリプト",
+          "エイチティーエム",
+          "リアクト",
+          "タイプスクリプト"
         ]
       },
       {
