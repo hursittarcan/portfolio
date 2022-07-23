@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Doua",
+        "title": "ドウア",
         "startDate": "2022",
-        "description": "Custom website for one of my clients. Minimalistic website selling hair products.",
+        "description": "これは、私の顧客のウェブサイトです。ヘアプロダクトのウェブサイトです。",
         "images": [
           "images/portfolio/project-images/doua-one.png",
           "images/portfolio/project-images/doua-two.png"
@@ -46,11 +46,11 @@
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
-            "name": "HTML"
+            "name": "エイチティーエム"
           },
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-css3-plain colored",
@@ -59,9 +59,9 @@
         ]
       },
       {
-        "title": "BreakBuddy",
+        "title": "ブレークバディ",
         "startDate": "2022",
-        "description": "Minimalistic game-like website for trip advising. One of my proudest hobby projects.",
+        "description": "これは私のウェブサイトです。ホビーサイトです。",
         "images": [
           "images/portfolio/project-images/breakbuddy-one.png",
           "images/portfolio/project-images/breakbuddy-two.png"
@@ -74,18 +74,18 @@
           },
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-html5-plain colored",
-            "name": "HTML"
+            "name": "エイチティーエム"
           }
         ]
       },
       {
-        "title": "CocoNoir Fashion",
+        "title": "ココノワール",
         "startDate": "2021",
-        "description": "Custom website for one of my clients. Website for selling fashion.",
+        "description": "これは、私の顧客のウェブサイトです。衣料品店です。",
         "images": [
           "images/portfolio/project-images/coconoir-one.png",
           "images/portfolio/project-images/coconoir-two.png"
@@ -94,11 +94,11 @@
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
-            "name": "HTML"
+            "name": "エイチティーエム"
           },
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-css3-plain colored",
@@ -107,9 +107,9 @@
         ]
       },
       {
-        "title": "WorstelClub Hasselt",
+        "title": "レスリング・クラ",
         "startDate": "2019",
-        "description": "Custom website for one of my clients. Website for a wrestling club located in Hasselt.",
+        "description": "これは、私の顧客のウェブサイトです。",
         "images": [
           "images/portfolio/project-images/worstelclubhasselt-one.png",
           "images/portfolio/project-images/worstelclubhasselt-two.png"
@@ -118,11 +118,11 @@
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
-            "name": "HTML"
+            "name": "エイチティーエム"
           },
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-css3-plain colored",
@@ -131,9 +131,9 @@
         ]
       },
       {
-        "title": "BReady2Go",
+        "title": "ブリーディング・ツーゴー",
         "startDate": "2019",
-        "description": "Custom website for one of my clients. Website for a taxi company.",
+        "description": "これは、私の顧客のウェブサイトです。",
         "images": [
           "images/portfolio/project-images/bready2go-one.png",
           "images/portfolio/project-images/bready2go-two.png"
@@ -142,7 +142,7 @@
         "technologies": [
           {
             "class": "devicon-wordpress-plain colored",
-            "name": "WordPress"
+            "name": "ワードプレス"
           }
         ]
       }
@@ -150,52 +150,48 @@
     "experience": [
       {
         "company": "イーサリアム",
-        "title": "Language Lead",
-        "years": "04.2022 - Present",
+        "title": "言語リーダー",
+        "years": "04.2022 - 今日",
         "mainTech": [
-          "Language Lead"
+          "言語リーダー"
         ],
         "technologies": [
-          "English",
-          "Turkish",
-          "Dutch",
-          "German",
-          "azerbaijani",
-          "Japanese",
-          "French"
+          "英語",
+          "トルコ語",
+          "オランダ語",
+          "ドイツ語",
+          "日本語",
+          "フランス語"
         ]
       },
       {
         "company": "イーサリアム",
-        "title": "Open Source Developer",
-        "years": "01.2022 - Present",
+        "title": "開発者",
+        "years": "01.2022 - 今日",
         "mainTech": [
-          "Developer"
+          "開発者"
         ],
         "technologies": [
-          "REST API",
-          "JavaScript",
-          "HTML 5",
-          "CSS 3",
-          "ReactJS",
-          "TypeScript"
+          "ジャバスクリプト",
+          "エイチティーエム",
+          "リアクト",
+          "タイプスクリプト"
         ]
       },
       {
         "company": "イーサリアム",
-        "title": "Translator",
+        "title": "トランスレータ",
         "years": "12.2021 - 04.2022",
         "mainTech": [
-          "Translator"
+          "トランスレータ"
         ],
         "technologies": [
-          "English",
-          "Turkish",
-          "Dutch",
-          "German",
-          "azerbaijani",
-          "Japanese",
-          "French"
+          "英語",
+          "トルコ語",
+          "オランダ語",
+          "ドイツ語",
+          "日本語",
+          "フランス語"
         ]
       }
     ]

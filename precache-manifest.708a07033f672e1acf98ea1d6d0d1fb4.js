@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "852213c300883215d74d904352254b3c",
+    "revision": "41322ba45964aa5b6bbf64f338a5ef8f",
     "url": "/hursittarcan.github.io/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hursittarcan.github.io/portfolio/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "7880aedf258a3c87179b",
+    "revision": "49ddb4a5550190a9be51",
     "url": "/hursittarcan.github.io/portfolio/static/css/main.12e6ab41.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hursittarcan.github.io/portfolio/static/js/2.26bdd67b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7880aedf258a3c87179b",
-    "url": "/hursittarcan.github.io/portfolio/static/js/main.39dcb657.chunk.js"
+    "revision": "49ddb4a5550190a9be51",
+    "url": "/hursittarcan.github.io/portfolio/static/js/main.9767e9f2.chunk.js"
   },
   {
     "revision": "21dbd81bb3f3d2fb4296",
