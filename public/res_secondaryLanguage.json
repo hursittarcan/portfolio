@@ -11,26 +11,26 @@
     },
     "projects": [
       {
-        "title": "Ethereum",
+        "title": "イーサリアム",
         "startDate": "2021",
-        "description": "The most popular project I worked for. I'm a code contributor and translation lead. I wrote over 400 lines of code and translated over 60.000 words. I'm still working on this project.",
+        "description": "これが私のベストプロジェクトです。私はこのプロジェクトの開発者とトランスレータです。400行以上コードを書きました。60.000語以上翻訳しました。",
         "images": [
           "images/portfolio/project-images/ethereum-one.png",
           "images/portfolio/project-images/ethereum-two.png"
         ],
-        "url": "https://ethereum.org/en/",
+        "url": "https://ethereum.org/ja/",
         "technologies": [
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-react-plain colored",
-            "name": "React"
+            "name": "リアクト"
           },
           {
             "class": "devicon-typescript-plain colored",
-            "name": "TypeScript"
+            "name": "タイプスクリプト"
           }
         ]
       },
@@ -149,7 +149,7 @@
     ],
     "experience": [
       {
-        "company": "Ethereum",
+        "company": "イーサリアム",
         "title": "Language Lead",
         "years": "04.2022 - Present",
         "mainTech": [
@@ -166,7 +166,7 @@
         ]
       },
       {
-        "company": "Ethereum",
+        "company": "イーサリアム",
         "title": "Open Source Developer",
         "years": "01.2022 - Present",
         "mainTech": [
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "company": "Ethereum",
+        "company": "イーサリアム",
         "title": "Translator",
         "years": "12.2021 - 04.2022",
         "mainTech": [
