@@ -59,9 +59,9 @@
         ]
       },
       {
-        "title": "BreakBuddy",
+        "title": "ブレークバディ",
         "startDate": "2022",
-        "description": "Minimalistic game-like website for trip advising. One of my proudest hobby projects.",
+        "description": "これは私のウェブサイトです。ホビーサイトです。",
         "images": [
           "images/portfolio/project-images/breakbuddy-one.png",
           "images/portfolio/project-images/breakbuddy-two.png"
@@ -74,11 +74,11 @@
           },
           {
             "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "name": "ジャバスクリプト"
           },
           {
             "class": "devicon-html5-plain colored",
-            "name": "HTML"
+            "name": "エイチティーエム"
           }
         ]
       },
