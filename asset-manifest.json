@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.12e6ab41.chunk.css",
-    "main.js": "/portfolio/static/js/main.dd98ad6a.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.dd98ad6a.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.1b893ad1.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.1b893ad1.js.map",
-    "static/css/2.d64471e2.chunk.css": "/portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.26bdd67b.chunk.js": "/portfolio/static/js/2.26bdd67b.chunk.js",
-    "static/js/2.26bdd67b.chunk.js.map": "/portfolio/static/js/2.26bdd67b.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.914eb87adfacaf89e76998f3442d61df.js": "/portfolio/precache-manifest.914eb87adfacaf89e76998f3442d61df.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/portfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.12e6ab41.chunk.css.map": "/portfolio/static/css/main.12e6ab41.chunk.css.map",
-    "static/js/2.26bdd67b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.26bdd67b.chunk.js.LICENSE.txt"
+    "main.css": "/hursittarcan.github.io/portfolio/static/css/main.12e6ab41.chunk.css",
+    "main.js": "/hursittarcan.github.io/portfolio/static/js/main.39dcb657.chunk.js",
+    "main.js.map": "/hursittarcan.github.io/portfolio/static/js/main.39dcb657.chunk.js.map",
+    "runtime-main.js": "/hursittarcan.github.io/portfolio/static/js/runtime-main.d41b4e26.js",
+    "runtime-main.js.map": "/hursittarcan.github.io/portfolio/static/js/runtime-main.d41b4e26.js.map",
+    "static/css/2.d64471e2.chunk.css": "/hursittarcan.github.io/portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.26bdd67b.chunk.js": "/hursittarcan.github.io/portfolio/static/js/2.26bdd67b.chunk.js",
+    "static/js/2.26bdd67b.chunk.js.map": "/hursittarcan.github.io/portfolio/static/js/2.26bdd67b.chunk.js.map",
+    "index.html": "/hursittarcan.github.io/portfolio/index.html",
+    "precache-manifest.77bd89848022aec56563d9e3563cf426.js": "/hursittarcan.github.io/portfolio/precache-manifest.77bd89848022aec56563d9e3563cf426.js",
+    "service-worker.js": "/hursittarcan.github.io/portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/hursittarcan.github.io/portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.12e6ab41.chunk.css.map": "/hursittarcan.github.io/portfolio/static/css/main.12e6ab41.chunk.css.map",
+    "static/js/2.26bdd67b.chunk.js.LICENSE.txt": "/hursittarcan.github.io/portfolio/static/js/2.26bdd67b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b893ad1.js",
+    "static/js/runtime-main.d41b4e26.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.26bdd67b.chunk.js",
     "static/css/main.12e6ab41.chunk.css",
-    "static/js/main.dd98ad6a.chunk.js"
+    "static/js/main.39dcb657.chunk.js"
   ]
 }

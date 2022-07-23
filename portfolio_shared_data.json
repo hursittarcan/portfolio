@@ -20,48 +20,53 @@
       "icons": [
         {
           "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "class": "devicon-html5-plain colored",
           "level": "95"
         },
         {
           "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "class": "devicon-css3-plain colored",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
+          "name": "Java",
+          "class": "devicon-java-plain colored",
+          "level": "70"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain colored",
           "level": "90"
         },
         {
           "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
+          "class": "devicon-javascript-plain colored",
+          "level": "90"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "ReactJS",
+          "class": "devicon-react-original colored",
+          "level": "50"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "80"
         },
         {
           "name": "C#",
-          "class": "devicon-csharp-plain",
+          "class": "devicon-csharp-plain colored",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "SpringBoot",
+          "class": "devicon-spring-plain colored",
+          "level": "70"
         }
       ]
     }
