@@ -149,37 +149,53 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Ethereum",
+        "title": "Language Lead",
+        "years": "04.2022 - Present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Language Lead"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "English",
+          "Turkish",
+          "Dutch",
+          "German",
+          "azerbaijani",
+          "Japanese",
+          "French"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Ethereum",
+        "title": "Open Source Developer",
+        "years": "01.2022 - Present",
         "mainTech": [
-          "Angular 7/8"
+          "Developer"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "REST API",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HTML 5",
+          "CSS 3",
+          "ReactJS",
+          "TypeScript"
+        ]
+      },
+      {
+        "company": "Ethereum",
+        "title": "Translator",
+        "years": "12.2021 - 04.2022",
+        "mainTech": [
+          "Translator"
+        ],
+        "technologies": [
+          "English",
+          "Turkish",
+          "Dutch",
+          "German",
+          "azerbaijani",
+          "Japanese",
+          "French"
         ]
       }
     ]
