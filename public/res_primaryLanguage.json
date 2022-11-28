@@ -171,6 +171,30 @@
         ]
       },
       {
+        "title": "Minecraft",
+        "startDate": "2020",
+        "description": "Custom website for one of my clients. Website for a wrestling club located in Hasselt.",
+        "images": [
+          "images/portfolio/project-images/minecraft-one.png",
+          "images/portfolio/project-images/mine-two.png"
+        ],
+        "url": "https://worstelclubhasselt.be/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
         "title": "WorstelClub Hasselt",
         "startDate": "2019",
         "description": "Custom website for one of my clients. Website for a wrestling club located in Hasselt.",
@@ -209,9 +233,78 @@
             "name": "WordPress"
           }
         ]
+      },
+      {
+        "title": "TIA",
+        "startDate": "2020",
+        "description": "United Nations project with TIA. I build a full stack web application for UN South Africa.",
+        "images": [
+          "images/portfolio/project-images/tia-one.png",
+          "images/portfolio/project-images/tia-two.png"
+        ],
+        "url": "https://www.tia.org.za/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-csharp-plain colored",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Electron",
+        "startDate": "2022",
+        "description": "Electron is a tool that embeds Chromium and Node.js to enable web developers to create desktop applications.",
+        "images": [
+          "images/portfolio/project-images/electron-one.png",
+          "images/portfolio/project-images/electron-two.png"
+        ],
+        "url": "https://www.electronjs.org/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          }
+        ]
       }
     ],
     "experience": [
+      {
+        "company": "Node.js",
+        "title": "Open Source Developer",
+        "years": "09.2022 - Present",
+        "mainTech": [
+          "Developer"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Markdown",
+          "HTML 5",
+          "CSS 3",
+          "Node.js"
+        ]
+      },
+      {
+        "company": "Node.js",
+        "title": "Translator",
+        "years": "09.2022 - Present",
+        "mainTech": [
+          "Translator"
+        ],
+        "technologies": [
+          "English",
+          "Turkish",
+          "Dutch",
+          "German"
+        ]
+      },
       {
         "company": "Ethereum",
         "title": "Language Lead",
