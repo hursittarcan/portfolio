@@ -15,8 +15,8 @@
         "startDate": "2021",
         "description": "The most popular project I worked for. I'm a code contributor and translation lead. I wrote over 400 lines of code and translated over 60.000 words. I'm still working on this project.",
         "images": [
-          "images/portfolio/project-images/ethereum-one.png",
-          "images/portfolio/project-images/ethereum-two.png"
+          "images/portfolio/project-images/ethereum-three.png",
+          "images/portfolio/project-images/ethereum-four.png"
         ],
         "url": "https://ethereum.org/en/",
         "technologies": [
@@ -31,6 +31,78 @@
           {
             "class": "devicon-typescript-plain colored",
             "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Nodejs",
+        "startDate": "2022",
+        "description": "One of my most favorite projects. I provide translations for the Node.js website. I'm still working on this project.",
+        "images": [
+          "images/portfolio/project-images/nodejs-two.png",
+          "images/portfolio/project-images/nodejs-one.png"
+        ],
+        "url": "https://nodejs.org/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "BreakBuddy",
+        "startDate": "2022",
+        "description": "Minimalistic game-like website for trip advising. One of my proudest hobby projects.",
+        "images": [
+          "images/portfolio/project-images/breakbuddy-one.png",
+          "images/portfolio/project-images/breakbuddy-two.png"
+        ],
+        "url": "https://breakbuddy.be/",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Docusaurus",
+        "startDate": "2022",
+        "description": "Docusaurus is a Markdown React tool for writing documentation. I provide translations for the Docusaurus website. ",
+        "images": [
+          "images/portfolio/project-images/docusaurus-one.png",
+          "images/portfolio/project-images/docusaurus-two.png"
+        ],
+        "url": "https://docusaurus.io/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-markdown-plain colored",
+            "name": "Markdown"
+          },
+          {
+            "class": "devicon-react-plain colored",
+            "name": "ReactJS"
           }
         ]
       },
@@ -59,23 +131,15 @@
         ]
       },
       {
-        "title": "BreakBuddy",
+        "title": "Microbit",
         "startDate": "2022",
-        "description": "Minimalistic game-like website for trip advising. One of my proudest hobby projects.",
+        "description": "Micro:bit is a pocket-sized computer that teaches kids how to code. I contribute to this by translating exercises to local languages.",
         "images": [
-          "images/portfolio/project-images/breakbuddy-one.png",
-          "images/portfolio/project-images/breakbuddy-two.png"
+          "images/portfolio/project-images/microbit-one.png",
+          "images/portfolio/project-images/microbit-two.png"
         ],
-        "url": "https://website.breakbuddy.be/",
+        "url": "https://microbit.org/",
         "technologies": [
-          {
-            "class": "devicon-nodejs-plain colored",
-            "name": "NodeJs"
-          },
-          {
-            "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
-          },
           {
             "class": "devicon-html5-plain colored",
             "name": "HTML"
@@ -90,7 +154,31 @@
           "images/portfolio/project-images/coconoir-one.png",
           "images/portfolio/project-images/coconoir-two.png"
         ],
-        "url": "https://coconoirfashion.be/",
+        "url": "https://coconoirfashion.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Minecraft",
+        "startDate": "2020",
+        "description": "Custom website for one of my clients. Website for a wrestling club located in Hasselt.",
+        "images": [
+          "images/portfolio/project-images/minecraft-one.png",
+          "images/portfolio/project-images/mine-two.png"
+        ],
+        "url": "https://worstelclubhasselt.be/",
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
@@ -145,9 +233,78 @@
             "name": "WordPress"
           }
         ]
+      },
+      {
+        "title": "TIA",
+        "startDate": "2020",
+        "description": "United Nations project with TIA. I build a full stack web application for UN South Africa.",
+        "images": [
+          "images/portfolio/project-images/tia-one.png",
+          "images/portfolio/project-images/tia-two.png"
+        ],
+        "url": "https://www.tia.org.za/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-csharp-plain colored",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Electron",
+        "startDate": "2022",
+        "description": "Electron is a tool that embeds Chromium and Node.js to enable web developers to create desktop applications.",
+        "images": [
+          "images/portfolio/project-images/electron-one.png",
+          "images/portfolio/project-images/electron-two.png"
+        ],
+        "url": "https://www.electronjs.org/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          }
+        ]
       }
     ],
     "experience": [
+      {
+        "company": "Node.js",
+        "title": "Open Source Developer",
+        "years": "09.2022 - Present",
+        "mainTech": [
+          "Developer"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Markdown",
+          "HTML 5",
+          "CSS 3",
+          "Node.js"
+        ]
+      },
+      {
+        "company": "Node.js",
+        "title": "Translator",
+        "years": "09.2022 - Present",
+        "mainTech": [
+          "Translator"
+        ],
+        "technologies": [
+          "English",
+          "Turkish",
+          "Dutch",
+          "German"
+        ]
+      },
       {
         "company": "Ethereum",
         "title": "Language Lead",

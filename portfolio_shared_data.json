@@ -12,6 +12,11 @@
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/hursittarcan/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://crowdin.com/profile/tarcanhursit",
+          "class": "fab fa-tumblr"
         }
       ],
       "image": "test.jpg"
