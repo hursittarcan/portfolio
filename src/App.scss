@@ -124,15 +124,17 @@ header h1 {
 .foto img {
 	display: block;
 	width: 100%;
+	border-radius: 25px;
 }
 
 .foto div {
-	background: #ffffff;
+	background: white;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
 	text-align: center;
 	text-decoration: none;
+	border-radius: 25px;
 	-webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
 	-moz-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
 	box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
