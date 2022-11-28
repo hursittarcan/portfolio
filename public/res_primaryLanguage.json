@@ -15,8 +15,8 @@
         "startDate": "2021",
         "description": "The most popular project I worked for. I'm a code contributor and translation lead. I wrote over 400 lines of code and translated over 60.000 words. I'm still working on this project.",
         "images": [
-          "images/portfolio/project-images/ethereum-one.png",
-          "images/portfolio/project-images/ethereum-two.png"
+          "images/portfolio/project-images/ethereum-three.png",
+          "images/portfolio/project-images/ethereum-four.png"
         ],
         "url": "https://ethereum.org/en/",
         "technologies": [
@@ -31,6 +31,78 @@
           {
             "class": "devicon-typescript-plain colored",
             "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Node.js",
+        "startDate": "2022",
+        "description": "One of my most favorite projects. I'm a Node.js member and my main responsibility is to make the website available in Dutch.",
+        "images": [
+          "images/portfolio/project-images/nodejs-two.png",
+          "images/portfolio/project-images/nodejs-one.png"
+        ],
+        "url": "https://nodejs.org/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "BreakBuddy",
+        "startDate": "2022",
+        "description": "Minimalistic game-like website for trip advising. One of my proudest hobby projects.",
+        "images": [
+          "images/portfolio/project-images/breakbuddy-one.png",
+          "images/portfolio/project-images/breakbuddy-two.png"
+        ],
+        "url": "https://breakbuddy.be/",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Docusaurus",
+        "startDate": "2022",
+        "description": "Custom",
+        "images": [
+          "images/portfolio/project-images/docusaurus-one.png",
+          "images/portfolio/project-images/docusaurus-two.png"
+        ],
+        "url": "https://doua.be/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
           }
         ]
       },
@@ -55,30 +127,6 @@
           {
             "class": "devicon-css3-plain colored",
             "name": "CSS"
-          }
-        ]
-      },
-      {
-        "title": "BreakBuddy",
-        "startDate": "2022",
-        "description": "Minimalistic game-like website for trip advising. One of my proudest hobby projects.",
-        "images": [
-          "images/portfolio/project-images/breakbuddy-one.png",
-          "images/portfolio/project-images/breakbuddy-two.png"
-        ],
-        "url": "https://website.breakbuddy.be/",
-        "technologies": [
-          {
-            "class": "devicon-nodejs-plain colored",
-            "name": "NodeJs"
-          },
-          {
-            "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain colored",
-            "name": "HTML"
           }
         ]
       },
@@ -143,30 +191,6 @@
           {
             "class": "devicon-wordpress-plain colored",
             "name": "WordPress"
-          }
-        ]
-      },
-      {
-        "title": "Node.js",
-        "startDate": "2022",
-        "description": "One of my most favorite projects. I'm a Node.js member and my main responsibility is to make the website available in Dutch.",
-        "images": [
-          "images/portfolio/project-images/nodejs.org.png",
-          "images/portfolio/project-images/nodejs.org-two.png"
-        ],
-        "url": "https://nodejs.org/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain colored",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-nodejs-plain colored",
-            "name": "NodeJS"
-          },
-          {
-            "class": "devicon-css3-plain colored",
-            "name": "CSS"
           }
         ]
       }
