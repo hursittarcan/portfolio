@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Node.js",
+        "title": "Nodejs",
         "startDate": "2022",
-        "description": "One of my most favorite projects. I'm a Node.js member and my main responsibility is to make the website available in Dutch.",
+        "description": "One of my most favorite projects. I provide translations for the Node.js website. I'm still working on this project.",
         "images": [
           "images/portfolio/project-images/nodejs-two.png",
           "images/portfolio/project-images/nodejs-one.png"
@@ -85,24 +85,24 @@
       {
         "title": "Docusaurus",
         "startDate": "2022",
-        "description": "Custom",
+        "description": "Docusaurus is a Markdown React tool for writing documentation. I provide translations for the Docusaurus website. ",
         "images": [
           "images/portfolio/project-images/docusaurus-one.png",
           "images/portfolio/project-images/docusaurus-two.png"
         ],
-        "url": "https://doua.be/",
+        "url": "https://docusaurus.io/",
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
             "name": "HTML"
           },
           {
-            "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
+            "class": "devicon-markdown-plain colored",
+            "name": "Markdown"
           },
           {
-            "class": "devicon-css3-plain colored",
-            "name": "CSS"
+            "class": "devicon-react-plain colored",
+            "name": "ReactJS"
           }
         ]
       },
@@ -127,6 +127,22 @@
           {
             "class": "devicon-css3-plain colored",
             "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Microbit",
+        "startDate": "2022",
+        "description": "Micro:bit is a pocket-sized computer that teaches kids how to code. I contribute to this by translating exercises to local languages.",
+        "images": [
+          "images/portfolio/project-images/microbit-one.png",
+          "images/portfolio/project-images/microbit-two.png"
+        ],
+        "url": "https://microbit.org/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
           }
         ]
       },
