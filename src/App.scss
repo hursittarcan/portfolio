@@ -252,6 +252,23 @@ header h1 {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.vertical-timeline-element>div {
+	min-height: 1px;
+	border-radius: 20px;
+}
+
+.vertical-timeline-element>div:hover {
+	-webkit-transform: scale(1.01);
+	cursor: grab;
+	-moz-transform: scale(1.01);
+	transition: 1s;
+	transform: scale(1.01);
+	z-index: 10;
+	-webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
+	-moz-box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
+	box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
+}
+
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
