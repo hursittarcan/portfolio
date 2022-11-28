@@ -145,6 +145,30 @@
             "name": "WordPress"
           }
         ]
+      },
+      {
+        "title": "Node.js",
+        "startDate": "2022",
+        "description": "One of my most favorite projects. I'm a Node.js member and my main responsibility is to make the website available in Dutch.",
+        "images": [
+          "images/portfolio/project-images/nodejs.org.png",
+          "images/portfolio/project-images/nodejs.org-two.png"
+        ],
+        "url": "https://nodejs.org/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
       }
     ],
     "experience": [
