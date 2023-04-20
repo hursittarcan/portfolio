@@ -6,14 +6,14 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Activities"
       }
     },
     "projects": [
       {
         "title": "Ethereum",
         "startDate": "2021",
-        "description": "The most popular project I worked for. I'm a code contributor and translation lead. I wrote over 400 lines of code and translated over 60.000 words. I'm still working on this project.",
+        "description": "The most popular project I worked for. I'm a code contributor and language lead. I wrote over 1000 lines of code and translated over 80.000 words. I'm still working on this project.",
         "images": [
           "images/portfolio/project-images/ethereum-three.png",
           "images/portfolio/project-images/ethereum-four.png"
@@ -37,7 +37,7 @@
       {
         "title": "Nodejs",
         "startDate": "2022",
-        "description": "One of my most favorite projects. I provide translations for the Node.js website. I'm still working on this project.",
+        "description": "One of my favorite projects. I provide translations for the Node.js website. I'm still working on this project.",
         "images": [
           "images/portfolio/project-images/nodejs-two.png",
           "images/portfolio/project-images/nodejs-one.png"
@@ -237,7 +237,7 @@
       {
         "title": "TIA",
         "startDate": "2020",
-        "description": "United Nations project with TIA. I build a full stack web application for UN South Africa.",
+        "description": "United Nations project with TIA. I build a full stack web application for solving the recycling problem in South Africa.",
         "images": [
           "images/portfolio/project-images/tia-one.png",
           "images/portfolio/project-images/tia-two.png"
@@ -259,99 +259,216 @@
         ]
       },
       {
-        "title": "Electron",
-        "startDate": "2022",
-        "description": "Electron is a tool that embeds Chromium and Node.js to enable web developers to create desktop applications.",
+        "title": "Codelab",
+        "startDate": "2023",
+        "description": "This is my web3 software company that I started in 2023",
         "images": [
-          "images/portfolio/project-images/electron-one.png",
-          "images/portfolio/project-images/electron-two.png"
+          "images/portfolio/project-images/codelab.png",
+          "images/portfolio/project-images/codelab.png"
         ],
-        "url": "https://www.electronjs.org/",
+        "url": "https://codelabgroup.com",
         "technologies": [
           {
             "class": "devicon-html5-plain colored",
             "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
           }
         ]
       }
     ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     "experience": [
       {
-        "company": "Node.js",
-        "title": "Open Source Developer",
-        "years": "09.2022 - Present",
+        "company": "Hogeschool PXL",
+        "title": "Projectweek",
+        "years": "15/02/2021",
         "mainTech": [
-          "Developer"
+          "Persoonlijke ontwikkeling"
         ],
         "technologies": [
-          "JavaScript",
-          "Markdown",
-          "HTML 5",
-          "CSS 3",
-          "Node.js"
         ]
       },
       {
-        "company": "Node.js",
-        "title": "Translator",
-        "years": "09.2022 - Present",
+        "company": "Hogeschool PXL",
+        "title": "Learning Path",
+        "years": "16/02/2021",
         "mainTech": [
-          "Translator"
+          "Persoonlijke ontwikkeling"
         ],
         "technologies": [
-          "English",
-          "Turkish",
-          "Dutch",
-          "German"
         ]
       },
       {
-        "company": "Ethereum",
-        "title": "Language Lead",
-        "years": "04.2022 - Present",
+        "company": "Hogeschool PXL",
+        "title": "Brein aan het werk, niet storen",
+        "years": "09/03/2021",
         "mainTech": [
-          "Language Lead"
+          "Persoonlijke ontwikkeling"
         ],
         "technologies": [
-          "English",
-          "Turkish",
-          "Dutch",
-          "German",
-          "azerbaijani",
-          "Japanese",
-          "French"
         ]
       },
       {
-        "company": "Ethereum",
-        "title": "Open Source Developer",
-        "years": "01.2022 - Present",
+        "company": "Hogeschool PXL",
+        "title": "My Team and I",
+        "years": "19/10/2022",
         "mainTech": [
-          "Developer"
+          "Persoonlijke ontwikkeling"
         ],
         "technologies": [
-          "JavaScript",
-          "HTML 5",
-          "CSS 3",
-          "ReactJS",
-          "TypeScript"
         ]
       },
       {
-        "company": "Ethereum",
-        "title": "Translator",
-        "years": "12.2021 - 04.2022",
+        "company": "Solita",
+        "title": "Seminarie Solita",
+        "years": "16/03/2021",
         "mainTech": [
-          "Translator"
+          "Seminarie"
         ],
         "technologies": [
-          "English",
-          "Turkish",
-          "Dutch",
-          "German",
-          "azerbaijani",
-          "Japanese",
-          "French"
+        ]
+      },
+      {
+        "company": "3-IT",
+        "title": "Seminarie 3-IT: Social Engineering",
+        "years": "02/03/2021",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Solita",
+        "title": "Seminarie Solita: iPaaS",
+        "years": "30/03/2021",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Craftworkz",
+        "title": "Seminarie Craftworkz",
+        "years": "23/02/2021",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Interacto",
+        "title": "Seminarie Interacto: Clean Code",
+        "years": "01/03/2022",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Dataroots",
+        "title": "Seminarie Dataroots: Data/AI Strategy",
+        "years": "26/10/2022",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "iO Belgium",
+        "title": "Seminarie iO Belgium: Automated Testing and Quality Assurance",
+        "years": "09/11/2022",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Deloitte",
+        "title": "Seminarie Deloitte: Salesforce",
+        "years": "16/11/2022",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Hogeschool PXL",
+        "title": "Innovatieroute Security & Cloud",
+        "years": "26/09/2022",
+        "mainTech": [
+          "Innovatieroute"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Hogeschool PXL",
+        "title": "Innovatieroute: Hackathon",
+        "years": "22/02/2023",
+        "mainTech": [
+          "Innovatieroute"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "AP Hogeschool",
+        "title": "Vlaamse Programmeerwedstrijd 2021",
+        "years": "17/03/2021",
+        "mainTech": [
+          "Student Engagement"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Tobania",
+        "title": "Seminarie Tobania: Modernisering & Automatisering",
+        "years": "10/05/2022",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "NVISO",
+        "title": "Seminarie NVISO: Web App Testing",
+        "years": "26/04/2022",
+        "mainTech": [
+          "Seminarie"
+        ],
+        "technologies": [
         ]
       }
     ]
