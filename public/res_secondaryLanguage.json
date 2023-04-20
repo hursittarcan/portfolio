@@ -147,52 +147,176 @@
         ]
       }
     ],
-    "experience": [
-      {
-        "company": "イーサリアム",
-        "title": "言語リーダー",
-        "years": "04.2022 - 今日",
-        "mainTech": [
-          "言語リーダー"
-        ],
-        "technologies": [
-          "英語",
-          "トルコ語",
-          "オランダ語",
-          "ドイツ語",
-          "日本語",
-          "フランス語"
-        ]
-      },
-      {
-        "company": "イーサリアム",
-        "title": "開発者",
-        "years": "01.2022 - 今日",
-        "mainTech": [
-          "開発者"
-        ],
-        "technologies": [
-          "ジャバスクリプト",
-          "エイチティーエム",
-          "リアクト",
-          "タイプスクリプト"
-        ]
-      },
-      {
-        "company": "イーサリアム",
-        "title": "トランスレータ",
-        "years": "12.2021 - 04.2022",
-        "mainTech": [
-          "トランスレータ"
-        ],
-        "technologies": [
-          "英語",
-          "トルコ語",
-          "オランダ語",
-          "ドイツ語",
-          "日本語",
-          "フランス語"
-        ]
-      }
-    ]
+  "experience": [
+    {
+      "company": "Hogeschool PXL",
+      "title": "Projectweek",
+      "years": "15/02/2021",
+      "mainTech": [
+        "Persoonlijke ontwikkeling"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Hogeschool PXL",
+      "title": "Learning Path",
+      "years": "16/02/2021",
+      "mainTech": [
+        "Persoonlijke ontwikkeling"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Hogeschool PXL",
+      "title": "Brein aan het werk, niet storen",
+      "years": "09/03/2021",
+      "mainTech": [
+        "Persoonlijke ontwikkeling"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Hogeschool PXL",
+      "title": "My Team and I",
+      "years": "19/10/2022",
+      "mainTech": [
+        "Persoonlijke ontwikkeling"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Solita",
+      "title": "Seminarie Solita",
+      "years": "16/03/2021",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "3-IT",
+      "title": "Seminarie 3-IT: Social Engineering",
+      "years": "02/03/2021",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Solita",
+      "title": "Seminarie Solita: iPaaS",
+      "years": "30/03/2021",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Craftworkz",
+      "title": "Seminarie Craftworkz",
+      "years": "23/02/2021",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Interacto",
+      "title": "Seminarie Interacto: Clean Code",
+      "years": "01/03/2022",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Dataroots",
+      "title": "Seminarie Dataroots: Data/AI Strategy",
+      "years": "26/10/2022",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "iO Belgium",
+      "title": "Seminarie iO Belgium: Automated Testing and Quality Assurance",
+      "years": "09/11/2022",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "Seminarie Deloitte: Salesforce",
+      "years": "16/11/2022",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Hogeschool PXL",
+      "title": "Innovatieroute Security & Cloud",
+      "years": "26/09/2022",
+      "mainTech": [
+        "Innovatieroute"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Hogeschool PXL",
+      "title": "Innovatieroute: Hackathon",
+      "years": "22/02/2023",
+      "mainTech": [
+        "Innovatieroute"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "AP Hogeschool",
+      "title": "Vlaamse Programmeerwedstrijd 2021",
+      "years": "17/03/2021",
+      "mainTech": [
+        "Student Engagement"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Tobania",
+      "title": "Seminarie Tobania: Modernisering & Automatisering",
+      "years": "10/05/2022",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "NVISO",
+      "title": "Seminarie NVISO: Web App Testing",
+      "years": "26/04/2022",
+      "mainTech": [
+        "Seminarie"
+      ],
+      "technologies": [
+      ]
+    }
+  ]
   }
